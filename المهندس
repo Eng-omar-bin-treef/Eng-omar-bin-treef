@@ -1,0 +1,11 @@
+from turle impor *
+speed(0)
+bgclor(`black`)
+color(`aqua`)
+for i in range(160):
+    rt(I)
+    circle(150, i)
+fd(i)
+rt(90)
+hideturtlr()
+donr()
